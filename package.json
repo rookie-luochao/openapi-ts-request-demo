@@ -1,0 +1,15 @@
+{
+  "name": "openapi-ts-request-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "openapi-ts": "openapi-ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openapi-ts-request": "^0.4.7"
+  }
+}
